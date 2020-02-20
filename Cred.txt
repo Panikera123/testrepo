@@ -1,0 +1,109 @@
+ftp://ftp.newbreed.com
+Username : vzwervsftp
+Password : Vzw3rVtp4
+
+vzw jobs ::
+FTP- B2b PIF process job
+PIF - B2B Autoprocess job
+
+
+flipsawp.ecavault.com
+Username : oracle_admin
+Password : P@ssw0rdr1213
+
+hyla jobs ::
+Oracle model master FTB job
+Oracle model master FTB job
+
+AWS database login ::
+psql -h rds.int -U admin -d postgres
+@normanschwar34
+
+Liquide web database login ::
+paql postgres
+
+awsssh qa-appserver-uscc-ce-1
+awsssh -L 127.0.0.1:10002:rds.int:5432 qa-appserver-vzw-ce-1 
+
+liquide web tomcat restart ::
+
+/etc/init.d/tomcat_att start
+
+redis-cli flushall
+
+Search for value :: ps -ef | grep tomcat
+
+
+qa ce-app at&t telus canada>> master jan 3
+VZW-QA 20.1>>one day ago
+USCC 20.1>>4 days ago
+
+sandhusaab88@
+
+ 16675 | CONSTANT |       0 | VERIZON_SERVICE_HOST          | https://gsb6.north.vzwcorp.com:443/globalRouter/GlobalRouterCommonGateway | 2016-08-23 09:5
+4:48.450443+00 | 2020-01-08 16:19:57.234807+00
+      16674 | CONSTANT |       0 | VERIZON_PROXY_HOST            | gsb6.north.vzwcorp.com                                                    | 2016-08-23 09:5
+4:48.410783+00 | 2020-01-08 16:20:31.010777+00
+
+update ref_constant set value = 'https://gsb2.north.vzwcorp.com:443/globalRouter/GlobalRouterCommonGateway' where constantid = '16675';
+
+
+/app/tomcat/work/job_scripts/ftp_script.sh,ITEM,data/internal/ceadmin/ORA002,ITEM_20200109_1638.xml,,noemail-qa@hylamobile.com,devops.team@hylamobile.com,hylateam@SEASIAINFOTECH.COM
+
+
+update ref_constant set value = 'gsb2.north.vzwcorp.com' where constantid = '16674 ';
+
+
+update hss_carton set pickupdate = '2019-12-25 01:01:01' where cartonid = '5000168373';
+
+Update   fs_item set createddate = '2019-12-11 10:28:43.737+00' where itemid = '605904958'
+
+Update fs_carton set createddate='2020-01-08 01:01:01.177-05' where cartonid='5000168580'
+Update fs_carton set lastupdateddate='2020-01-08 01:01:01.177-05' where cartonid='5000168580'
+
+
+
+
+
+
+Update fs_carton set calexicoreceiveddate='2020-01-08 01:01:01.177-05' where cartonid='5000168580';
+
+Update fs_carton set calexicoreceiveddate='2020-01-08 01:01:01.177-05' where cartonid='5000168580';
+
+bby_wh_qaprod
+Euphoria@1         
+
+
+
+
+Update  fs_item set accepteddate = '2019-12-11 10:28:39.708+00’ where itemid' = '605904958';
+
+Update  fs_item set lastupdateddate = '2019-12-11 10:28:44.493+where itemid' = '605904958';
+
+Update  fs_item set createddate = '2019-12-11 10:05:42.254+00’ where quotenumber' = '40010920000064';
+
+Update  fs_item set lastupdateddate = '2019-12-11 10:28:44.49+00’ where quotenumber' = '40010920000064';
+
+/app/tomcat/work/job_scripts/ftp_script.sh,ITEM,data/internal/ceadmin/ORA002,ITEM_20200108_1051.xml,,noemail-qa@hylamobile.com,devops.team@hylamobile.com,hylateam@SEASIAINFOTECH.COM
+
+/app/tomcat/work/job_scripts/pif_ftp_script.sh,TELEPLAN,CISCO_TELEPLAN_FEED/out,khoslapiyush@seasiainfotech.com\,vkol@ciklum.com,noreply-qa@hylamobile.com
+
+/app/tomcat/work/job_scripts/pif_ftp_script.sh,TELEPLAN,CISCO_TELEPLAN_FEED/out,khoslapiyush@seasiainfotech.com\,vkol@ciklum.com,noreply-qa@hylamobile.com
+
+/app/tomcat/work/job_scripts/ftp_script.sh,MFG_DATA,data/internal/ceadmin/ORA002,ITEM_20191212,,noreply-qa@hylamobile.com,devops.team@hylamobile.com,hylateam@SEASIAINFOTECH.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
